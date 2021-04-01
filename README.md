@@ -8,7 +8,7 @@ python3 manage.py runserver
 #This will run a webserver on 127.0.0.1:8000
 ```
 
-
+<img src="ready.png">
 
 ```bash
 mysite/
